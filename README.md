@@ -5,7 +5,7 @@ Get absolute path (like xPath, only with jQuery syntax) of element
 
 Usage:
 
-`var path = $('#foo').getPath()`
+`var path = $('input[name='MyRadioInput']').getPath()`
 
 Results:
 
